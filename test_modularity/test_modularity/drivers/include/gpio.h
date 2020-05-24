@@ -21,6 +21,8 @@ typedef struct
 
 
 
-unsigned char test_func2(void);
+unsigned char test_func2(GSM_VARS *pGSM_VARS);
+// unsigned char test_func3(GSM_VARS *pGSM_VARS);
+// unsigned char enable_func(GSM_VARS *pGSM_VARS);
 
 #endif /* GPIO_H_ */

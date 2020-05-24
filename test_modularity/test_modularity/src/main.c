@@ -16,7 +16,7 @@ int main(void)
     /* Replace with your application code */
     while (1) 
     {
-		test_func(my_vars.f_connect);
+		//test_func(my_vars.f_connect);
     }
 }
 
